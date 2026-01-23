@@ -9,13 +9,13 @@
 export const LogoCarousel = () => {
   const logos = [
     { name: "Gemini CLI", url: "https://geminicli.com", lightSrc: "/images/logos/gemini-cli/gemini-cli-logo_light.svg", darkSrc: "/images/logos/gemini-cli/gemini-cli-logo_dark.svg" },
-    { name: "Autohand Code CLI", url: "https://autohand.ai/", lightSrc: "/images/logos/autohand/autohand-light.svg", darkSrc: "/images/logos/autohand/autohand-dark.svg" },
+    { name: "Autohand Code CLI", url: "https://autohand.ai/", lightSrc: "/images/logos/autohand/autohand-light.svg", darkSrc: "/images/logos/autohand/autohand-dark.svg", width: "120px" },
     { name: "OpenCode", url: "https://opencode.ai/", lightSrc: "/images/logos/opencode/opencode-wordmark-light.svg", darkSrc: "/images/logos/opencode/opencode-wordmark-dark.svg" },
-    { name: "Mux", url: "https://mux.coder.com/", lightSrc: "/images/logos/mux/mux-editor-light.svg", darkSrc: "/images/logos/mux/mux-editor-dark.svg" },
+    { name: "Mux", url: "https://mux.coder.com/", lightSrc: "/images/logos/mux/mux-editor-light.svg", darkSrc: "/images/logos/mux/mux-editor-dark.svg", width: "120px" },
     { name: "Cursor", url: "https://cursor.com/", lightSrc: "/images/logos/cursor/LOCKUP_HORIZONTAL_2D_LIGHT.svg", darkSrc: "/images/logos/cursor/LOCKUP_HORIZONTAL_2D_DARK.svg" },
     { name: "Amp", url: "https://ampcode.com/", lightSrc: "/images/logos/amp/amp-logo-light.svg", darkSrc: "/images/logos/amp/amp-logo-dark.svg", width: "120px" },
     { name: "Letta", url: "https://www.letta.com/", lightSrc: "/images/logos/letta/Letta-logo-RGB_OffBlackonTransparent.svg", darkSrc: "/images/logos/letta/Letta-logo-RGB_GreyonTransparent.svg" },
-    { name: "Firebender", url: "https://firebender.com/", lightSrc: "/images/logos/firebender/firebender-wordmark-light.svg", darkSrc: "/images/logos/firebender/firebender-wordmark-dark.svg", width: "240px" },
+    { name: "Firebender", url: "https://firebender.com/", lightSrc: "/images/logos/firebender/firebender-wordmark-light.svg", darkSrc: "/images/logos/firebender/firebender-wordmark-dark.svg" },
     { name: "Goose", url: "https://block.github.io/goose/", lightSrc: "/images/logos/goose/goose-logo-black.png", darkSrc: "/images/logos/goose/goose-logo-white.png" },
     { name: "GitHub", url: "https://github.com/", lightSrc: "/images/logos/github/GitHub_Lockup_Dark.svg", darkSrc: "/images/logos/github/GitHub_Lockup_Light.svg" },
     { name: "VS Code", url: "https://code.visualstudio.com/", lightSrc: "/images/logos/vscode/vscode.svg", darkSrc: "/images/logos/vscode/vscode-alt.svg" },
@@ -24,13 +24,13 @@ export const LogoCarousel = () => {
     { name: "OpenAI Codex", url: "https://developers.openai.com/codex", lightSrc: "/images/logos/oai-codex/OAI_Codex-Lockup_400px.svg", darkSrc: "/images/logos/oai-codex/OAI_Codex-Lockup_400px_Darkmode.svg" },
     { name: "Piebald", url: "https://piebald.ai", lightSrc: "/images/logos/piebald/Piebald_wordmark_light.svg", darkSrc: "/images/logos/piebald/Piebald_wordmark_dark.svg" },
     { name: "Factory", url: "https://factory.ai/", lightSrc: "/images/logos/factory/factory-logo-light.svg", darkSrc: "/images/logos/factory/factory-logo-dark.svg" },
-    { name: "pi", url: "https://shittycodingagent.ai/", lightSrc: "/images/logos/pi/pi-logo-light.svg", darkSrc: "/images/logos/pi/pi-logo-dark.svg" },
+    { name: "pi", url: "https://shittycodingagent.ai/", lightSrc: "/images/logos/pi/pi-logo-light.svg", darkSrc: "/images/logos/pi/pi-logo-dark.svg", width: "80px" },
     { name: "Databricks", url: "https://databricks.com/", lightSrc: "/images/logos/databricks/databricks-logo-light.svg", darkSrc: "/images/logos/databricks/databricks-logo-dark.svg" },
     { name: "Agentman", url: "https://agentman.ai/", lightSrc: "/images/logos/agentman/agentman-wordmark-light.svg", darkSrc: "/images/logos/agentman/agentman-wordmark-dark.svg" },
     { name: "TRAE", url: "https://trae.ai/", lightSrc: "/images/logos/trae/trae-logo-lightmode.svg", darkSrc: "/images/logos/trae/trae-logo-darkmode.svg" },
     { name: "Spring AI", url: "https://docs.spring.io/spring-ai/reference", lightSrc: "/images/logos/spring-ai/spring-ai-logo-light.svg", darkSrc: "/images/logos/spring-ai/spring-ai-logo-dark.svg" },
     { name: "Roo Code", url: "https://roocode.com", lightSrc: "/images/logos/roo-code/roo-code-logo-black.svg", darkSrc: "/images/logos/roo-code/roo-code-logo-white.svg" },
-    { name: "Mistral AI Vibe", url: "https://github.com/mistralai/mistral-vibe", lightSrc: "/images/logos/mistral-vibe/vibe-logo_black.svg", darkSrc: "/images/logos/mistral-vibe/vibe-logo_white.svg" },
+    { name: "Mistral AI Vibe", url: "https://github.com/mistralai/mistral-vibe", lightSrc: "/images/logos/mistral-vibe/vibe-logo_black.svg", darkSrc: "/images/logos/mistral-vibe/vibe-logo_white.svg", width: "80px" },
     { name: "Command Code", url: "https://commandcode.ai/", lightSrc: "/images/logos/command-code/command-code-logo-for-light.svg", darkSrc: "/images/logos/command-code/command-code-logo-for-dark.svg", width: "200px" },
   ];
 
