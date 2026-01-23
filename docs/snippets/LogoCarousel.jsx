@@ -32,6 +32,7 @@ export const LogoCarousel = () => {
     { name: "Roo Code", url: "https://roocode.com", lightSrc: "/images/logos/roo-code/roo-code-logo-black.svg", darkSrc: "/images/logos/roo-code/roo-code-logo-white.svg" },
     { name: "Mistral AI Vibe", url: "https://github.com/mistralai/mistral-vibe", lightSrc: "/images/logos/mistral-vibe/vibe-logo_black.svg", darkSrc: "/images/logos/mistral-vibe/vibe-logo_white.svg", width: "80px" },
     { name: "Command Code", url: "https://commandcode.ai/", lightSrc: "/images/logos/command-code/command-code-logo-for-light.svg", darkSrc: "/images/logos/command-code/command-code-logo-for-dark.svg", width: "200px" },
+    { name: "Ona", url: "https://ona.com", lightSrc: "/images/logos/ona/ona-wordmark-light.svg", darkSrc: "/images/logos/ona/ona-wordmark-dark.svg", width: "120px" },
   ];
 
   /* Shuffle logos on component mount */
