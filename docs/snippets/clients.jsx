@@ -327,8 +327,8 @@ export const clients = [
     url: "https://fast-agent.ai/",
     lightSrc: "/images/logos/fast-agent/fast-agent-light.svg",
     darkSrc: "/images/logos/fast-agent/fast-agent-dark.svg",
-    scale: 1.8,
-    instructionsUrl: "https://fast-agent.ai/",
+    scale: 1.33,
+    instructionsUrl: "https://fast-agent.ai/agents/skills/",
     sourceCodeUrl: "https://github.com/evalstate/fast-agent",
-  },  
+  },
 ];
